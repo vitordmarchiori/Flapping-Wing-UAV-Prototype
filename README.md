@@ -29,7 +29,7 @@ If you are using a LaTeX Editor, you can cite this repository using these BibTeX
   author       = {Marchiori, Vítor D. and Santos, Rodrigo B. and Bueno, Douglas D.},
   title        = {Flapping-wings UAV: CAD Prototype},
   year         = {2025},
-  howpublished = {\url{https://github.com/USERNAME/bioinspired-uav-solar-prototype}},
+  howpublished = {\url{https://github.com/vitordmarchiori/Flapping-Wing-UAV-Prototype}},
   note         = {[CAD models and assembly files]. GitHub}
 }
 ```
