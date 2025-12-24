@@ -16,7 +16,8 @@ harvesting in bioinspired aerial vehicles under oscillatory wing motion.
 
 The content is available for non-commercial research under the following terms: (i) GMSINT Group and UNESP Ilha Solteira should be acknowledged as the source of the data; (ii) this repository should be cited as follows:
 
-> Marchiori, V. D.; Santos, R. B.; Bueno, D. D. (2025). *Flapping-wings UAV: CAD Prototype*. GitHub repository.
+> Marchiori, V. D.; Santos, R. B.; Bueno, D. D. (2025). *Flapping-wings UAV: CAD Prototype*. GitHub, https://github.com/vitordmarchiori/Flapping-Wing-UAV-Prototype.
+* Marchiori, V. D.; Santos, R. B.; Bueno, D. D. (2025). *Flapping-wings UAV: CAD Prototype*. GitHub, https://github.com/vitordmarchiori/Flapping-Wing-UAV-Prototype.
 
 ### BibTeX
 
