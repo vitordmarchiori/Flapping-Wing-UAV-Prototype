@@ -3,7 +3,7 @@
 This repository contains the CAD models, assembly files, and supporting documentation
 for a bioinspired flapping-wing UAV prototype equipped with flexible solar cells.
 
-[ ](/Figures/UAV_CAD.png)
+![ ](/Figures/UAV_CAD.png)
 
 The prototype was developed to support experimental investigations on solar energy
 harvesting in bioinspired aerial vehicles under oscillatory wing motion.
@@ -37,7 +37,7 @@ If you are using a LaTeX Editor, you can cite this repository using these BibTeX
 ## Funding
 São Paulo Research Foundation, [FAPESP](https://fapesp.br/en), Grant number 2023/15904-4.
 
-[ ](/Figures/fapesp.png)
+![ ](/Figures/fapesp.png)
 
 ## License
 Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA): A creative commons license that bans commercial use and requires you to release any modified works under this license.
