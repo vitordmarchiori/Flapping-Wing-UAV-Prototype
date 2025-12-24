@@ -1,7 +1,7 @@
 # Bioinspired UAV with Integrated Solar Cells — CAD Prototype
 
 This repository contains the CAD models, assembly files, and supporting documentation
-for a bioinspired flapping-wing UAV prototype equipped with flexible solar cells.
+for a bioinspired flapping-wing UAV prototype.
 
 ![ ](/Figures/UAV_CAD.png)
 
