@@ -6,28 +6,36 @@ for a bioinspired flapping-wing UAV prototype equipped with flexible solar cells
 The prototype was developed to support experimental investigations on solar energy
 harvesting in bioinspired aerial vehicles under oscillatory wing motion.
 
----
-
 ## Corresponding authors
 
 - [Vítor D. Marchiori](http://lattes.cnpq.br/5431211572935053)
 * [Rodrigo B. Santos](http://lattes.cnpq.br/6783847794438620)
 - [Douglas D. Bueno](https://feis.unesp.br/douglasbueno) 
 
----
-
 ## How to cite
 
-If you use this repository in academic work, please cite it as:
+The content is available for non-commercial research under the following terms: (i) GMSINT Group and UNESP Ilha Solteira should be acknowledged as the source of the data; (ii) this repository should be cited as follows:
 
 > Marchiori, V. D.; Santos, R. B.; Bueno, D. D. (2025). *Flapping-wings UAV: CAD Prototype*. GitHub repository.
 
 ### BibTeX
+
+If you are using a LaTeX Editor, you can cite this repository using these BibTeX citations:
+
 ```bibtex
 @misc{marchiori2025uavcad,
   author       = {Marchiori, Vítor D. and Santos, Rodrigo B. and Bueno, Douglas D.},
   title        = {Flapping-wings UAV: CAD Prototype},
   year         = {2025},
   howpublished = {\url{https://github.com/USERNAME/bioinspired-uav-solar-prototype}},
-  note         = {CAD models and assembly files}
+  note         = {[CAD models and assembly files]. GitHub}
 }
+```
+
+## Funding
+São Paulo Research Foundation [FAPESP](https://fapesp.br/en) Grant number 2022/10174-5
+
+[ ](/sponsors.png)
+
+## License
+Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA): A creative commons license that bans commercial use and requires you to release any modified works under this license.
