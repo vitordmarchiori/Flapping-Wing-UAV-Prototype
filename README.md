@@ -10,9 +10,9 @@ harvesting in bioinspired aerial vehicles under oscillatory wing motion.
 
 ## Corresponding authors
 
-- Vítor D. Marchiori
-- Rodrigo B. Santos
-- Douglas D. Bueno  
+- [Vítor D. Marchiori](http://lattes.cnpq.br/5431211572935053)
+* [Rodrigo B. Santos](http://lattes.cnpq.br/6783847794438620)
+- [Douglas D. Bueno](https://feis.unesp.br/douglasbueno) 
 
 ---
 
