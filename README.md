@@ -6,7 +6,6 @@ for a bioinspired flapping-wing UAV prototype.
 </p>
 
 <p align="center">
-  ![ ](/Figures/UAV_CAD.png)
   img src="Figures/UAV_CAD.png" alt="UAV CAD Prototype" width="100%">
 </p>
 
